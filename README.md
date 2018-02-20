@@ -4,6 +4,6 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](http://www.balajimohan.net/)](http://www.balajimohan.net/)
 
 **[View Live Preview](http://www.balajimohan.net/)**
